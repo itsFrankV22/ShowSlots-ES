@@ -4,7 +4,7 @@
 ## Translation: [FrankV22](https://github.com/itsFrankV22)
 
 > [!NOTE]
->Si hablas otro idioma por favor visita [README_SPANISH]()
+>Si hablas otro idioma por favor visita [README_SPANISH](README_SPANISH.md)
 
 
 ## Introduction

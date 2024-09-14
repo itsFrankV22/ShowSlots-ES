@@ -3,7 +3,7 @@
 ## para TShock5 de FrankV2
 ## Traducción: [FrankV22](https://github.com/itsFrankV22)
 
-> [!NOTA]
+> [!NOTE]
 >If you speak another language please visit [README_ENGLISH](https://github.com/itsFrankV22/ShowSlots-ES/blob/main/README.md)
 
 

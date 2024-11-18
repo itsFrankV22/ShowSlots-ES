@@ -1,0 +1,14 @@
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\bin\Debug\net6.0\HttpServer.dll
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\bin\Debug\net6.0\ShowMySolts.deps.json
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\bin\Debug\net6.0\ShowMySolts.dll
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\bin\Debug\net6.0\ShowMySolts.pdb
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.csproj.AssemblyReference.cache
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.AssemblyInfoInputs.cache
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.AssemblyInfo.cs
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.csproj.CoreCompileInputs.cache
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.sourcelink.json
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.dll
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\refint\ShowMySolts.dll
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ShowMySolts.pdb
+C:\Users\FrankV22\Source\Repos\ShowSlots-ES\obj\Debug\net6.0\ref\ShowMySolts.dll
